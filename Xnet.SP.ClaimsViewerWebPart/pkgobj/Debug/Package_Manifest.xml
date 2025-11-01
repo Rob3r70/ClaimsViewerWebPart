@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ebde1d17-34ee-45f0-979c-6ab2d6ef0f08" SharePointProductVersion="19.0">
+  <Assemblies>
+    <Assembly Location="Xnet.SP.ClaimsViewerWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Xnet.SP.ClaimsViewerWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6faa59c967ecd196" Namespace="Xnet.SP.ClaimsViewerWebPart.ClaimsViewerWebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Xnet.SP.ClaimsViewerWebPart\ClaimsViewerWebPart\ClaimsViewerWebPartUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Xnet.SP.ClaimsViewerWebPart_ClaimsWebPart\Feature.xml" />
+  </FeatureManifests>
+</Solution>

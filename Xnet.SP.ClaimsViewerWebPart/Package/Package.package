@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ebde1d17-34ee-45f0-979c-6ab2d6ef0f08" solutionId="ebde1d17-34ee-45f0-979c-6ab2d6ef0f08" resetWebServer="false" sharePointProductVersion="19.0" name="Xnet.SP.ClaimsViewerWebPart" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="df516f4e-97b1-4c30-9df1-c3b0234d1b28" />
+  </features>
+</package>

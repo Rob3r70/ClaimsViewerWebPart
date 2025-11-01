@@ -1,0 +1,1 @@
+bin\Debug\Xnet.SP.ClaimsViewerWebPart.wsp

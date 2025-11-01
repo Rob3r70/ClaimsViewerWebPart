@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Xnet - ClaimsViewerWebPart" Id="dc5866c2-4f4a-4d40-a25d-6407192bd5ab" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="ClaimsViewerWebPart\Elements.xml" />
+    <ElementFile Location="ClaimsViewerWebPart\ClaimsViewerWebPart.webpart" />
+  </ElementManifests>
+</Feature>

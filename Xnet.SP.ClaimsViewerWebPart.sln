@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xnet.SP.ClaimsViewerWebPart", "Xnet.SP.ClaimsViewerWebPart\Xnet.SP.ClaimsViewerWebPart.csproj", "{B355DF35-A20B-4A2B-B1CD-AA4A883FE4D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B355DF35-A20B-4A2B-B1CD-AA4A883FE4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B355DF35-A20B-4A2B-B1CD-AA4A883FE4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B355DF35-A20B-4A2B-B1CD-AA4A883FE4D1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B355DF35-A20B-4A2B-B1CD-AA4A883FE4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B355DF35-A20B-4A2B-B1CD-AA4A883FE4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B355DF35-A20B-4A2B-B1CD-AA4A883FE4D1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201E665F-EE3B-4CEF-869D-0D9AA0B93249}
+	EndGlobalSection
+EndGlobal
